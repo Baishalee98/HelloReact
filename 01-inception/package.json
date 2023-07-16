@@ -1,0 +1,29 @@
+{
+  "name": "hello-react",
+  "version": "1.0.0",
+  "description": "This is Hello React by Baishalee Paul",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Baishalee98/HelloReact.git"
+  },
+  "author": "Baishalee Paul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Baishalee98/HelloReact/issues"
+  },
+  "homepage": "https://github.com/Baishalee98/HelloReact#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+    "last 3 versions"
+  ]
+}
